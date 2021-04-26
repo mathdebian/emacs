@@ -15,7 +15,7 @@
 ;; Default font
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (set-default-font "Monospace-8")
-;(set-face-attribute 'default nil :font "Menlo-12") ;; MacOS
+;;(set-face-attribute 'default nil :font "Menlo-12") ;; MacOS
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Cursor position
